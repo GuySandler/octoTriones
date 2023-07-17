@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoTriones/templates *
+recursive-include octoTriones/translations *
+recursive-include octoTriones/static *
